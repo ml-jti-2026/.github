@@ -11,9 +11,9 @@ Organisasi ini dipakai untuk praktikum, tugas praktikum, dan PBL mata kuliah **P
 1. Kerjakan tugas di repo kamu sendiri, lalu **commit dan push ke branch `main`** sebelum deadline.
 2. Yang dinilai adalah **commit terakhir di `main` saat deadline lewat**. Push setelah deadline tidak ikut dinilai.
 3. Setelah deadline, commit yang dinilai diberi tag `<jobsheet>-dikumpulkan` (contoh `js02-dikumpulkan`). Cek tag itu untuk memastikan tugasmu tercatat.
-4. Nama file tugas: `TG<nomor>_<NIM>_<NAMA>.ipynb`, contoh `TG02_2341720001_BUDI_SANTOSO.ipynb`. File yang namanya salah tetap tercatat, tapi ditandai.
+4. Kerjakan tugas langsung di `jobsheets/<jobsheet>/tugas.ipynb`. Jangan rename atau pindahkan file dan folder jobsheet.
 5. Simpan notebook **beserta output-nya** supaya bisa dinilai tanpa dijalankan ulang.
-6. PBL: setiap anggota commit dari akunnya sendiri. Riwayat commit dipakai untuk melihat kontribusi.
+6. PBL: setiap anggota commit dan push dari akun GitHub-nya sendiri, bukan akun bersama.
 
 ## Jadwal pengumpulan
 
@@ -21,5 +21,9 @@ _Jadwal belum diumumkan._
 
 ## Ada masalah?
 
-- **Undangan kedaluwarsa / tidak ada repo:** hubungi asisten praktikum, sebutkan NIM dan username GitHub.
+- **Undangan kedaluwarsa / tidak ada repo:** sampaikan ke dosen pengajar, sebutkan NIM dan username GitHub.
 - **Salah push / file hilang:** jangan hapus riwayat (`git push --force`), commit perbaikannya saja.
+
+---
+
+_Halaman ini diperbarui otomatis dari repo admin._
